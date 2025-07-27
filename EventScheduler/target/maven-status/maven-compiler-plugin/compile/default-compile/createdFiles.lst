@@ -1,0 +1,11 @@
+com/eventscheduler/model/Event.class
+com/eventscheduler/algorithm/ConflictGraph.class
+com/eventscheduler/model/Room$TimeSlot.class
+com/eventscheduler/algorithm/GraphColoringScheduler.class
+com/eventscheduler/model/Participant$TimeSlot.class
+com/eventscheduler/model/Room.class
+com/eventscheduler/EventSchedulerApp.class
+com/eventscheduler/model/Participant.class
+com/eventscheduler/algorithm/SchedulingAlgorithm.class
+com/eventscheduler/algorithm/GraphColoringScheduler$ColoringStrategy.class
+com/eventscheduler/algorithm/SchedulingAlgorithm$SchedulingResult.class
