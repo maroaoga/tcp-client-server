@@ -1,0 +1,7 @@
+/workspace/EventScheduler/src/main/java/com/eventscheduler/EventSchedulerApp.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/model/Event.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/algorithm/ConflictGraph.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/model/Participant.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/model/Room.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/algorithm/GraphColoringScheduler.java
+/workspace/EventScheduler/src/main/java/com/eventscheduler/algorithm/SchedulingAlgorithm.java
